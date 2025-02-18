@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+p, .top-username{
+    color: white;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+div{
+    padding: 10px;
+}
+
+.top-username{
+    padding: 20px;
+}
+
+.main-info{
+    display:inline-block;
+    padding: 1rem 1rem;
+    vertical-align: top;
+}
+
+.post-num, .follower-num, .following-num{
+    display: inline-block;
+}
+
+.profile-pic {
+    border-radius: 360px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 5px;
+
+}
+.post{
+    display: inline-block;
+}
